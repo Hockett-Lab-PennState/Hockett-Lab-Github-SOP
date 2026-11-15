@@ -12,31 +12,25 @@ November 10, 2026
 
 - [Section 1: Github Basics 2](#section-1-github-basics)
 
-- [1.1-What is version control, Git and Github?
-2](#what-is-version-control-git-and-github)
+- [1.1-What is version control, Git and Github?](#11-what-is-version-control-git-and-github)
 
-- [1.2-Basic workflow of Git 2](#basic-workflow-of-git)
+- [1.2-Basic workflow of Git](#12-basic-workflow-of-git)
 
-- [Section 2: Procedures 4](#section-2-procedures)
+- [Section 2: Procedures](#section-2-procedures)
 
-- [2.1 -- Location of Hockett Lab github
-4](#location-of-hockett-lab-github)
+- [2.1 -- Location of Hockett Lab github](#21-location-of-hockett-lab-github)
 
-- [2.2 -- Common procedures to set up your project on Hockett Lab github
-4](#common-procedures-to-set-up-your-project-on-hockett-lab-github)
+- [2.2 -- Common procedures to set up your project on Hockett Lab github](#22-common-procedures-to-set-up-your-project-on-hockett-lab-github)
 
-- [2.3 -- Special procedures for multiple collaborators
-5](#special-procedures-for-multiple-collaborators)
+- [2.3 -- Special procedures for multiple collaborators](#23-special-procedures-for-multiple-collaborators)
 
-- [2.4 - Record keeping 5](#record-keeping)
+- [2.4 - Record keeping](#24-record-keeping)
 
-- [Section 3: Demonstration 6](#section-3-demonstration)
+- [Section 3: Demonstration](#section-3-demonstration)
 
-- [3.1 Steps to push your files from your computer to github repositories
-6](#steps-to-push-your-files-from-your-computer-to-github-repositories)
+- [3.1 Steps to push your files from your computer to github repositories](#31-steps-to-push-your-files-from-your-computer-to-github-repositories)
 
-- [3.2 A special case with multiple collaborators
-9](#a-special-case-with-multiple-collaborators)
+- [3.2 A special case with multiple collaborators](#32-a-special-case-with-multiple-collaborators)
 
 Section 1: Github Basics
 
