@@ -18,19 +18,19 @@ November 10, 2026
 
 [Section 2: Procedures](#section-2-procedures)
 
-[2.1 - Location of Hockett Lab github](#21-location-of-hockett-lab-github)
+[2.1-Location of Hockett Lab github](#21-location-of-hockett-lab-github)
 
-[2.2 - Common procedures to set up your project on Hockett Lab github](#22-common-procedures-to-set-up-your-project-on-hockett-lab-github)
+[2.2-Common procedures to set up your project on Hockett Lab github](#22-common-procedures-to-set-up-your-project-on-hockett-lab-github)
 
-[2.3 - Special procedures for multiple collaborators](#23-special-procedures-for-multiple-collaborators)
+[2.3-Special procedures for multiple collaborators](#23-special-procedures-for-multiple-collaborators)
 
-[2.4 - Record keeping](#24-record-keeping)
+[2.4-Record keeping](#24-record-keeping)
 
 [Section 3: Demonstration](#section-3-demonstration)
 
-[3.1 Steps to push your files from your computer to github repositories](#31-steps-to-push-your-files-from-your-computer-to-github-repositories)
+[3.1-Steps to push your files from your computer to github repositories](#31-steps-to-push-your-files-from-your-computer-to-github-repositories)
 
-[3.2 A special case with multiple collaborators](#32-a-special-case-with-multiple-collaborators)
+[3.2-A special case with multiple collaborators](#32-a-special-case-with-multiple-collaborators)
 
 ## Section 1: Github Basics
 
@@ -82,13 +82,13 @@ Figure 3. Create new branches and merge
 
 ## Section 2: Procedures
 
-2.1 - Location of Hockett Lab github 
+2.1-Location of Hockett Lab github 
 --------------------------------------
 
 Hockett Lab github space is located at
 <https://github.com/Hockett-Lab-PennState>
 
-2.2 - Common procedures to set up your project on Hockett Lab github
+2.2-Common procedures to set up your project on Hockett Lab github
 ---------------------------------------------------------------------
 
 1)  **You should register an account for Github & download the Github
@@ -147,7 +147,7 @@ Hockett Lab github space is located at
 
 12) You are done! Go to github repo and see if your files are there.
 
-2.3 - Special procedures for multiple collaborators
+2.3-Special procedures for multiple collaborators
 ----------------------------------------------------
 
 1)  If a repository has multiple collaborators on the same file, each
@@ -176,7 +176,7 @@ Hockett Lab github space is located at
     conflicts then the manager can approve the changes and merged the
     files to the main branch.
 
-2.4 - Record keeping
+2.4-Record keeping
 --------------------
 
 The lab manager should prepare an excel file that keeps a record of all
@@ -191,7 +191,7 @@ them.
 
 ## Section 3: Demonstration
 
-3.1 Steps to push your files from your computer to github repositories
+3.1-Steps to push your files from your computer to github repositories
 ----------------------------------------------------------------------
 
 1.  Go to <https://github.com/> and register an account; download and
@@ -261,7 +261,7 @@ height="1.8116404199475065in"}
 ![](media/image12.png){width="6.470982064741907in"
 height="3.4608694225721783in"}
 
-3.2 A special case with multiple collaborators 
+3.2-A special case with multiple collaborators 
 -----------------------------------------------
 
 1.  **Each collaborator making changes of the files of the project needs
