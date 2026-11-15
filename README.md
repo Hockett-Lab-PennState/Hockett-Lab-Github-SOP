@@ -18,11 +18,11 @@ November 10, 2026
 
 [Section 2: Procedures](#section-2-procedures)
 
-[2.1 -- Location of Hockett Lab github](#21-location-of-hockett-lab-github)
+[2.1 - Location of Hockett Lab github](#21-location-of-hockett-lab-github)
 
-[2.2 -- Common procedures to set up your project on Hockett Lab github](#22-common-procedures-to-set-up-your-project-on-hockett-lab-github)
+[2.2 - Common procedures to set up your project on Hockett Lab github](#22-common-procedures-to-set-up-your-project-on-hockett-lab-github)
 
-[2.3 -- Special procedures for multiple collaborators](#23-special-procedures-for-multiple-collaborators)
+[2.3 - Special procedures for multiple collaborators](#23-special-procedures-for-multiple-collaborators)
 
 [2.4 - Record keeping](#24-record-keeping)
 
