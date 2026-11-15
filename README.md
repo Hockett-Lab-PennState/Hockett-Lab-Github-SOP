@@ -51,7 +51,7 @@ platform that allows developers (and researchers, writers, and more!) to
 store, manage, and collaborate their projects. Figure 1 shows their
 features.
 
-![](media/image1.png){width="5.0in" height="2.5in"}
+<img src="media/image1.png" width="480">
 
 Figure 1. Comparison between Git and Github.
 
@@ -62,7 +62,7 @@ The major steps to upload (push) files from your computer to Github are
 described in Figure 2, although it is for command line. A desktop app is
 also available to download (see section 2 - procedures).
 
-![](media/image2.png){width="3.4895833333333335in" height="6.21875in"}
+<img src="media/image2.png" width="480">
 
 **Figure 2. Git workflow**
 
@@ -75,8 +75,7 @@ branch we work on. If you are content with the work on your branch, you
 can request for merging the changes you made into the main branch after
 reviewing by the team (Figure 3).
 
-![Git Branches \| Individual Software
-Process](media/image3.png){width="6.5in" height="3.328472222222222in"}
+<img src="media/image3.png" width="480">
 
 Figure 3. Create new branches and merge
 
@@ -204,8 +203,7 @@ them.
     notification) after the lab manager created your repository, see
     below:
 
-![](media/image4.png){width="3.5107666229221346in"
-height="3.13043416447944in"}
+<img src="media/image4.png" width="480">
 
 4.  Accept the invitation so you will have access to upload your files
     to the repo.
@@ -215,18 +213,18 @@ height="3.13043416447944in"}
 
 6.  Open Github Desktop App and click on the triangle in Current
     repository box (see below) and click on the add button (see below)
-    to choose clone the repository. ![](media/image5.png){width="3.25in"
-    height="0.7083333333333334in"}
+    to choose clone the repository. 
+    
+<img src="media/image5.png" width="480">
 
-![](media/image6.png){width="3.1041666666666665in"
-height="0.4895833333333333in"}
+<img src="media/image6.png" width="480">
 
 7.  In the pop-up box, copy and paste the URL of your github repo and
     the path to the folder you just created in Step 5. Then click on
     Clone button, which will download the repo from github to the folder
     just created.
 
-![](media/image7.png){width="6.5in" height="3.845833333333333in"}
+<img src="media/image7.png" width="480">
 
 8.  Copy and paste your files to the folder, or create or make any
     changes in any files will be tracked by Git and seen in the left
@@ -235,31 +233,27 @@ height="0.4895833333333333in"}
     folder and wrote a line of description in it. Github desktop tracks
     those changes highlighted in green.
 
-![](media/image8.png){width="4.843478783902012in"
-height="1.1622276902887139in"}
+<img src="media/image8.png" width="480">
 
-![](media/image9.png){width="6.5in" height="2.2270833333333333in"}
+<img src="media/image9.png" width="480">
 
 9.  Once you are done with any modifications on the files, write a short
     description in the commit message box (see below), then click on
     Commit 1 file to main. The main means the main branch, which is
     default workplace, refer to Figure 3 in section 1.
 
-![](media/image10.png){width="2.5416666666666665in"
-height="2.1770833333333335in"}
+<img src="media/image10.png" width="480">
 
 10. Now all files are ready to be pushed (in another word, uploaded) to
     your project repo on github. So click on 'push origin' button on the
     desktop app (see below).
 
-![](media/image11.png){width="4.673912948381452in"
-height="1.8116404199475065in"}
+<img src="media/image11.png" width="480">
 
 11. After uploading, you will see the Git\_demo\_example1.txt appear in
     the project repository on the Github (see below).
 
-![](media/image12.png){width="6.470982064741907in"
-height="3.4608694225721783in"}
+<img src="media/image12.png" width="480">
 
 3.2-A special case with multiple collaborators 
 -----------------------------------------------
@@ -272,30 +266,25 @@ height="3.4608694225721783in"}
     branch button see below. Your branch is recommended based on the
     main.
 
-![](media/image13.png){width="4.729166666666667in"
-height="2.5520833333333335in"}
+<img src="media/image13.png" width="480">
 
-![](media/image14.png){width="4.164764873140857in"
-height="2.5483409886264217in"}
+<img src="media/image14.png" width="480">
 
 3.  As a collaborator, I now added a line to the
     'Git\_demo\_example1.txt' file. These changes are tracked by Git.
 
-![](media/image15.png){width="5.612607174103237in"
-height="1.3791666666666667in"}
+<img src="media/image15.png" width="480">
 
-![](media/image16.png){width="5.2652176290463695in"
-height="1.3764938757655294in"}
+<img src="media/image16.png" width="480">
 
 4.  Write a short description in the commit message box see below.
 
-![](media/image17.png){width="1.58498687664042in"
-height="4.9130435258092735in"}
+<img src="media/image17.png" width="480">
 
 5.  Now we are ready to push the branch and the changes of the files to
     github repo. So click on Publish branch
 
-![](media/image18.png){width="6.5in" height="1.5909722222222222in"}
+<img src="media/image18.png" width="480">
 
 6.  These changes at your branch need to be reviewed by lab manager
     (called pull request) or your team before merging your changes to
@@ -304,11 +293,9 @@ height="4.9130435258092735in"}
     the changes are ok, click on the triangle dropdown menu and select
     create Pull Request, click on that button after selection.
 
-![](media/image19.png){width="4.526087051618548in"
-height="1.7524081364829396in"}
+<img src="media/image19.png" width="480">
 
-![](media/image20.png){width="4.369564741907261in"
-height="2.1931856955380575in"}
+<img src="media/image20.png" width="480">
 
 7.  The lab manage or your team can review those changes on the project
     repository and lab manage can approve your request and merge your
@@ -316,11 +303,11 @@ height="2.1931856955380575in"}
     project (like consolidating all comments and edits from your
     co-authors into a clean version of manuscript). Now you are done!
 
-![](media/image21.png){width="6.5in" height="2.3513888888888888in"}
+<img src="media/image21.png" width="480">
 
 **If you have any questions, please contact** Xiaoping **at
 <xbl5418@psu.edu> . Fun fact: The mascot of github is a cat-octopus,
 named Mona the Octocat.**
 
-![](media/image22.png){width="5.875in" height="3.3125in"}
+<img src="media/image22.png" width="480">
 
