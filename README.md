@@ -32,7 +32,7 @@ November 10, 2026
 
 - [3.2 A special case with multiple collaborators](#32-a-special-case-with-multiple-collaborators)
 
-Section 1: Github Basics
+## Section 1: Github Basics
 
 1.1-What is version control, Git and Github?
 --------------------------------------------
@@ -80,8 +80,7 @@ Process](media/image3.png){width="6.5in" height="3.328472222222222in"}
 
 Figure 3. Create new branches and merge
 
-Section 2: Procedures
-=====================
+## Section 2: Procedures
 
 2.1 -- Location of Hockett Lab github 
 --------------------------------------
@@ -190,8 +189,7 @@ repository where new lab members can find them in addition to OneDrive.
 Lab protocol repository is set to private so only lab members can review
 them.
 
-Section 3: Demonstration
-========================
+## Section 3: Demonstration
 
 3.1 Steps to push your files from your computer to github repositories
 ----------------------------------------------------------------------
